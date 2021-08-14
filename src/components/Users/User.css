@@ -1,0 +1,41 @@
+.main-container{
+    margin: 25px;
+}
+.user-container{
+    text-align: center;
+    padding:30px;
+    background-color:#727373;
+    color:#F2EAE4;
+    width: 300px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
+.user-id{
+    height: 60px;
+    width:60px;
+    border-radius: 100%;
+    background-color: #F2786D;
+    line-height:60px;
+    margin:0 auto
+}
+
+.link{
+    text-decoration: none;
+    color:#F2786D
+}
+button{
+    margin-left:10px;
+    padding:3px 10px;
+    background-color:#F2786D ;
+    color: #f2eae4;
+    border:1px solid #F2EAE4;
+    border-radius:5px
+
+}
+button:hover{
+    background-color:#727373 ;
+    color:#F2786D;
+    border:1px solid #F2786D;
+    background-color: #f2eae4;
+}
